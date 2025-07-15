@@ -1,0 +1,23 @@
+{
+  "name": "tea-maker",
+  "version": "1.0.0",
+  "description": "simple tea maker",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "tea",
+    "express"
+  ],
+  "author": "tushar paithane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
